@@ -1,0 +1,2 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merger version="3"><dataSet config="main"><source path="/Users/ashishaggarwal/Desktop/projects/flutter/bmiapp/bmiapp/android/app/src/main/assets"/><source path="/Users/ashishaggarwal/Desktop/projects/flutter/bmiapp/bmiapp/build/app/generated/assets/shaders/debug"/></dataSet><dataSet config="debug"><source path="/Users/ashishaggarwal/Desktop/projects/flutter/bmiapp/bmiapp/android/app/src/debug/assets"/></dataSet></merger>
