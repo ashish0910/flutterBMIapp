@@ -2,7 +2,4 @@
 
 A new Flutter project.
 
-## Getting Started
-
-For help getting started with Flutter, view our online
-[documentation](https://flutter.io/).
+This app calculates BMI of person . This App runs on both android and IOS and is build on flutter .
